@@ -1,1 +1,1 @@
-# monterey-grub-theme
+# bigsur-grub-theme
