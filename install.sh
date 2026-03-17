@@ -1,7 +1,7 @@
 #!/bin/bash
 ROOT_UID=0
 THEME_DIR="/usr/share/grub/themes"
-THEME_NAME="monterey-grub-theme"
+THEME_NAME="bigsur-grub-theme"
 MAX_DELAY=20
 
 
@@ -39,8 +39,8 @@ prompt () {
 
 sudo echo  " "
 # Welcome message
-  prompt -s "\n\t          ****************************\n\t          *  Monterey Grub Bootloader theme  *\n\t          ****************************\n"
-prompt -s "\t\t \t Grub theme by techsan \n \n"   
+  prompt -s "\n\t          ****************************\n\t          *  Big Sur Grub Bootloader theme  *\n\t          ****************************\n"
+prompt -s "\t\t \t Grub theme by techsan, modified by iiibz4321 \n \n"   
 
 
 
